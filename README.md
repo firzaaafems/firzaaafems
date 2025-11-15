@@ -18,10 +18,6 @@ Focus areas:
 
 ---
 
-##  Mission Statement
-Crafting technology that feels intuitive, responsive, and one step ahead of its time.
-
----
 
 ##  Tech Stack
 **Languages**  
@@ -29,13 +25,6 @@ Crafting technology that feels intuitive, responsive, and one step ahead of its 
 - Python  
 - HTML / CSS
 
----
-
-**Frameworks & Tools**  
-- Node.js  
-- Git & GitHub  
-- VS Code  
-- REST APIs  
 
 
 ---
