@@ -2,7 +2,7 @@
 
 <h1 align="center"> Firza • Developer in Progress</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=600&color=29F7FF&center=true&vCenter=true&width=450&lines=Love+Python+And%2C+Love+python+again!;Learning.+Adaptated.+Learning+again." alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=600&color=29F7FF&center=true&vCenter=true&width=450&lines=Love+Python%2C+And+Love+python+again!;Learning.+Adaptated.+Learning+again." alt="Typing" />
 </p>
 
 ---
