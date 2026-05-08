@@ -21,7 +21,10 @@ Focus areas:
 ##  Tech Stack
 **Tools**  
 - Python
-
+- VS code
+- Blackbox(kidding)
+- google collab(It's not time yet)
+- jupyter notebook(It's not time yet)
 
 ---
 
